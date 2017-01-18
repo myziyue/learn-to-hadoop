@@ -16,5 +16,4 @@ Desktop.ini
 
 # project
 out/*
-output/*
 !.gitkeep
