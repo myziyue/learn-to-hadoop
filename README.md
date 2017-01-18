@@ -25,5 +25,5 @@ Hadoop学习笔记
 
 ## 源代码
 
-- 第一章 初识Hadoop
-- 第二章 关于MapReduce
+- [第一章 初识Hadoop](./notes/01.md)
+- [第二章 关于MapReduce](./notes/02.md)
