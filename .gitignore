@@ -1,12 +1,20 @@
+# IDE编辑器项目配置文件
+#.idea
+nbproject
+.buildpath
+.project
+.settings
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+.svn
+
 *.class
+#*.iml
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
 
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# project
+out/*
+output/*
+!.gitkeep
