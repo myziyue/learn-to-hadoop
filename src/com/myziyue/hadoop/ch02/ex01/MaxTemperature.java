@@ -1,4 +1,4 @@
-package com.myziyue.hadoop.ch02;
+package com.myziyue.hadoop.ch02.ex01;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;

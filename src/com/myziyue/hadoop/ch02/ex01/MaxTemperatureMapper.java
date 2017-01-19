@@ -1,4 +1,4 @@
-package com.myziyue.hadoop.ch02;
+package com.myziyue.hadoop.ch02.ex01;
 
 import java.io.IOException;
 

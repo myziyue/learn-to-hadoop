@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.myziyue.hadoop.ch02.ex01.MaxTemperature
+
