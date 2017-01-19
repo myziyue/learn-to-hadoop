@@ -26,6 +26,8 @@ Hadoop学习笔记
 
 - [Hadoop单节点安装配置](./notes/configure-hadoop-single-node.md)
 
+- [Hadoop伪分布式配置](./notes/configure-hadoop-pseudo-distributed.md)
+
 ## 书籍
 
 《Hadoop权威指南》
